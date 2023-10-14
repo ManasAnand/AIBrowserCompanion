@@ -1,0 +1,21 @@
+/* style.css */
+#chatbot {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: auto;
+}
+
+#messages {
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#inputMessage {
+    width: 75%;
+}
+
+button {
+    width: 20%;
+}
